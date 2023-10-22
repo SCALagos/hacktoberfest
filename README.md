@@ -103,19 +103,19 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Chisom Jude
-// GITHUB: https://github.com/fineanmol
+// AUTHOR:SCA LAGOS
+// GITHUB: https://github.com/scalagos
 
 console.log('Hello, World!');
 ```
 
-Name the file `hello_world_yourusername.xx`. e.g., `hello_world_adaeze.js` or `hello_world_adaeze.py`.
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_scalagos.js` or `hello_world_scalagos.py`.
 
 Add your scripts to the specific folder for specific languages created.
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial.
 
-Here is my `hello_world` example: [hello_world_adaeze.js](https://github.com/scalagos/hacktoberfest/blob/master/scripts/hello_world_adaeze.js)
+Here is my `hello_world` example: [hello_world_scalagos.js](https://github.com/scalagos/hacktoberfest/blob/master/scripts/hello_world_scalagos.js)
 
 ### Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
@@ -123,7 +123,4 @@ Here is my `hello_world` example: [hello_world_adaeze.js](https://github.com/sca
 
 
 ## BONUS!
-- Merging All Pull Requests
-- See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
-- Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
-- Check out some very creative ways to print out a "Hello, World!" string.
+- we are Merging All Pull Requests, make sure to send   1 task per PR WITHOUT CONFLICTS
