@@ -1,26 +1,28 @@
-# Your Name
+
+# SHE CODE AFRICA LAGOS
 
 ### Location
 
-Your City/Country
+Lagos, Nigeria
 
 ### Academics
 
-Your School
+SHE CODE AFRICA
 
 ### Interests
 
-- Some Things You Like
+- I love to empower women in tech
 
-### Development
+###  Profession / Tech Stack
 
-- Inventor of the My Pillow
+- I mentor and empower African women to embrace Tech
+- HTML CSS JAVASCRIPT Python
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [NO Project](https://github.com/scalagos) Short Description
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[SCA Lagos](https://github.com/scalagos)
 
