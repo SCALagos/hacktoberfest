@@ -1,4 +1,4 @@
-- name: Is the user stargazer?
+  - name: Is the user stargazer?
   # You may pin to the exact commit or the version.
   # uses: gacts/is-stargazer@bf9d383ebcbabd7c513561cdde72cf1b0016eeab
   uses: gacts/is-stargazer@v1.0.1
