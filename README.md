@@ -1,13 +1,13 @@
 # Hacktoberfest 2023
-Make your first Pull Request on Hacktoberfest 2023. Everyone is Welcome to contribute. Don't forget to spread love and if you like give us a ⭐️
-
+Make your first Pull Request on Hacktoberfest 2023. Everyone is Welcome to contribute. 
+This repo will be active even after Hacktoberfest to encourage new contributors to make their first contribution
 
 
 Contribute here to complete your HacktoberFest Event. 
 
-# 🎃 HacktoberFest Starter Project 🎃
+# :star::star:  HacktoberFest Starter Project :star: :star:
 
-Use this project to make your first contribution to an open source project on GitHub.
+Use this project to make your first contribution to an open-source project on GitHub.
 Celebrate [Hacktoberfest](https://hacktoberfest.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
@@ -20,7 +20,7 @@ A month-long celebration from October 1st - 31st sponsored by `Digital Ocean` an
 
 
 ## Getting started
-
+- :star: Star this repro
 - Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 - Clone your fork down to your local machine
 
@@ -39,19 +39,19 @@ git checkout -b branch-name
 
 ```markdown
 git add .
-git commit -m 'Commit message'
+git commit -m 'task name'
 git push origin branch-name
 ```
 
 - Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 - Wait for your PR review and merge approval!
-- **Star this repository** if you had fun!
+- **Star this repository** 
 
 # How to contribute to this project
 
 ## Choose from these tasks
 
-### 1. Add your name
+### 1. 'Add your-name' task 
 
 Add your name to the `CONTRIBUTING.md` file using the below convention:
 
@@ -63,8 +63,8 @@ Add your name to the `CONTRIBUTING.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a profile page
-
+### 2. 'Add-a-profile-page' Task
+ 
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
@@ -96,7 +96,7 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
+### 3. `Hello-World!` Task
 
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
