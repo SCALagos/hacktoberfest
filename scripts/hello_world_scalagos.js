@@ -1,5 +1,5 @@
 // language : JavaScript
 // ENV : Node.js
-// Author : Vishesh Saxena
+// Author : SHE CODE AFRICA LAGOS
 // Github: Https://github.com/scalagos
-console.log("Helloo World");
+console.log("Hello World");
