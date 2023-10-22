@@ -82,9 +82,10 @@ Your School
 
 - Some Things You Like
 
-### Development
+###  Profession / Tech Stack
 
-- Inventor of the My Pillow
+- I mentor and empower African women to embrace Tech
+- HTML CSS JAVASCRIPT Python
 
 ### Projects
 
