@@ -8,3 +8,9 @@
 - Place: ikeja, Lagos. NIGERIA
 - Bio: Cloud / DevOps Engineer
 - GitHub: [Chisom Jude] (https://github.com/chisomjude)
+
+
+#### Name: KENECHUKWU OJITELI (https://github.com/keneojiteli)
+- Place: Yaba, Lagos. Nigeria
+- Bio: Site Reliability Engineer
+- GitHub: [Kenechukwu Ojiteli] (https://github.com/keneojiteli)
