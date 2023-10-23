@@ -1,0 +1,60 @@
+name: Check If PR Author Starred the Repository
+
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  checkStar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+
+    - name: Install dependencies
+      run: npm install octokit
+
+    - name: Check if PR author starred the repository
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        const { Octokit } = require("octokit");
+
+        const octokit = new Octokit({
+          auth: process.env.GITHUB_TOKEN,
+        });
+
+        const prNumber = process.env.GITHUB_EVENT.number;
+        const repoOwner = process.env.GITHUB_REPOSITORY_OWNER;
+        const repoName = process.env.GITHUB_REPOSITORY;
+
+        const prData = await octokit.pulls.get({
+          owner: repoOwner,
+          repo: repoName,
+          pull_number: prNumber,
+        });
+
+        const prAuthor = prData.data.user.login;
+
+        const stargazers = await octokit.activity.listStargazersForRepo({
+          owner: repoOwner,
+          repo: repoName,
+        });
+
+        const hasStarred = stargazers.data.some((user) => user.login === prAuthor);
+
+        if (hasStarred) {
+          console.log(`${prAuthor} has starred the repository.`);
+        } else {
+          console.log(`${prAuthor} has not starred the repository.`);
+          // You can add more actions or comments to the PR if the user has not starred it.
+        }
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
