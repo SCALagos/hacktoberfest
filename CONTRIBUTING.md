@@ -8,3 +8,8 @@
 - Place: ikeja, Lagos. NIGERIA
 - Bio: Cloud / DevOps Engineer
 - GitHub: [Chisom Jude] (https://github.com/chisomjude)
+
+#### Name: Duru Oluchi (https://github.com/jMkwendy45)
+- Place: Yaba, Lagos. NIGERIA
+- Bio: Backend / Software Engineer
+- GitHub: [jMkwendy45] (https://github.com/jMkwendy45)
