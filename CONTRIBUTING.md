@@ -10,6 +10,11 @@
 - Bio: Cloud / DevOps Engineer
 - GitHub: [Chisom Jude](https://github.com/chisomjude)
 
+#### Name: KENECHUKWU OJITELI (https://github.com/keneojiteli)
+- Place: Yaba, Lagos. Nigeria
+- Bio: Site Reliability Engineer
+- GitHub: [Kenechukwu Ojiteli](https://github.com/keneojiteli)
+
 #### Name: HANIF MAGHFUR (https://github.com/hnigmaghfur)
 
 - Place: Palembang, SS, Indonesia
@@ -20,7 +25,6 @@
 - Place: ilupeju, Lagos. NIGERIA
 - Bio: I'm a passionate front-end developer with keen interest in Open source!
 - GitHub: [Taofeekat Olorunkosebi](https://github.com/Taofeeqah)
-
 
 #### Name: Duru Oluchi (https://github.com/jMkwendy45)
 - Place: Yaba, Lagos. NIGERIA
