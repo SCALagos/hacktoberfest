@@ -31,3 +31,8 @@
 - Bio: Backend / Software Engineer
 - GitHub: [jMkwendy45](https://github.com/jMkwendy45)
 
+#### Name: Ejike Mary-Cynthia (https://github.com/genejike)
+- Place: Ikeja, Lagos. NIGERIA
+- Bio: Devops Engineer
+- GitHub: [Ejike Mary-cynthia](https://github.com/genejike)
+
