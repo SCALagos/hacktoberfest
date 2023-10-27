@@ -31,3 +31,7 @@
 - Bio: Backend / Software Engineer
 - GitHub: [jMkwendy45](https://github.com/jMkwendy45)
 
+#### Name: SOLOMON ODUNUSI (https://github.com/SolomonOdunusi)
+- Place: Yaba, Lagos. NIGERIA
+- Bio: I'm a FullStack / Software Engineer and student at ALX
+- GitHub: [SolomonOdunusi](https://github.com/SolomonOdunusi)
