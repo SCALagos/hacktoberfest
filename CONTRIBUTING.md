@@ -36,3 +36,8 @@
 - Bio: Devops Engineer
 - GitHub: [Ejike Mary-cynthia](https://github.com/genejike)
 
+#### Name: SOLOMON ODUNUSI (https://github.com/SolomonOdunusi)
+- Place: Yaba, Lagos. NIGERIA
+- Bio: I'm a FullStack / Software Engineer and student at ALX
+- GitHub: [SolomonOdunusi](https://github.com/SolomonOdunusi)
+
