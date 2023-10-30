@@ -41,3 +41,9 @@
 - Bio: I'm a FullStack / Software Engineer and student at ALX
 - GitHub: [SolomonOdunusi](https://github.com/SolomonOdunusi)
 
+#### Name: Shashank Patil (https://github.com/ShashankPatil35)
+- Place: Mysore, karnataka. INDIA
+- Bio: I'm a Frontend developer, and interested in open source 
+- GitHub: [ShashankPatil35](https://github.com/ShashankPatil35)
+
+
