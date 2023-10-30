@@ -46,8 +46,15 @@
 - Bio: I'm a FullStack / Software Engineer and student at ALX
 - GitHub: [SolomonOdunusi](https://github.com/SolomonOdunusi)
 
+
+#### Name: Shashank Patil (https://github.com/ShashankPatil35)
+- Place: Mysore, karnataka. INDIA
+- Bio: I'm a Frontend developer, and interested in open source 
+- GitHub: [ShashankPatil35](https://github.com/ShashankPatil35)
+
 #### Name: Falaye Promise (https://github.com/PromPromm)
 
 - Place: Ado-Ekiti, Ekiti, NIGERIA
 - Bio: I'm a Backend / Software Engineer with interest in project management
 - GitHub: [PromPromm](https://github.com/PromPromm)
+
