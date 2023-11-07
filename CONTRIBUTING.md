@@ -41,3 +41,7 @@
 - Bio: I'm a FullStack / Software Engineer and student at ALX
 - GitHub: [SolomonOdunusi](https://github.com/SolomonOdunusi)
 
+#### Name: MUTIAT ADEPOJU (https://github.com/Rike12)
+- Place: Ogba, Lagos. NIGERIA
+- Bio: I'm a Frontend Web Developer  and a Technical Writer
+- GitHub: [Mutiat Adepoju](https://github.com/Rike12)
